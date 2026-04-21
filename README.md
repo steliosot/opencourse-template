@@ -19,6 +19,3 @@ opencourse learn
 - `coursepacks/<module-id>/course.yaml`
 - `coursepacks/<module-id>/weeks/week-XX/week.yaml`
 - `coursepacks/<module-id>/skills/<skill-name>/SKILL.md`
-
-> [!TIP]
-> What is the computational complexity of `my_len`?
