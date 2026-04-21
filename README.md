@@ -19,3 +19,10 @@ opencourse learn
 - `coursepacks/<module-id>/course.yaml`
 - `coursepacks/<module-id>/weeks/week-XX/week.yaml`
 - `coursepacks/<module-id>/skills/<skill-name>/SKILL.md`
+
+<details>
+  <summary>Show answer</summary>
+
+`my_len(data)` scans all elements once, so time complexity is `O(n)` and extra space is `O(1)`.
+
+</details>
